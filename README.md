@@ -3,5 +3,3 @@ Most of my work consists of open-source contributions to libraries such as [Math
 personal projects that I find useful and/or fun.
 
 See my [website](https://davidtranhq.github.io) for more.
-
-Currently seeking Summer 2022 SWE internships.
